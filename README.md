@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on two project actually, my project about the game Guitar Hero and My other game cc_sonic_run.
+- 🔭 I’m currently working on my project Guitar Hero.
 
-- 🌱 I’m currently learning Python and Lua
+- 🌱 I’m currently learning Python and Java
 
 - 🤔 I’m looking for help with my project in lua The game Guitar Hero if someone can help me 😄
 <!--
