@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my project Guitar Hero.
+Hey there! My name is Baptiste, I'm 18 and I live in France. 
+I started programming around 2019 with Python and now I work on some personal and school projects. 
+I enjoy learning everything related to computer science and I learn to use different programming tool and languages in my spare time.
 
-- 🌱 I’m currently learning Python and Java
+🎓 I'm currently studying at IUT Nice Côte d'Azur in computer science. I hope in the future to join an engineer school and also become a computer engineer. 
+I use to upload my school projects on GitHub to help student and share my passion.
 
-- 🤔 I’m looking for help with my project in lua The game Guitar Hero if someone can help me 😄
 <!--
 **BaptisteLacroix/BaptisteLacroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
