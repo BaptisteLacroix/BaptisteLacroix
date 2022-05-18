@@ -9,7 +9,7 @@ I use to upload my school projects on GitHub to help student and share my passio
 
 ### GitHub Stats 📈
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BaptisteLacroix&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaptisteLacroix&count_private=true)]()
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteLacroix&langs_count=5&theme=tokyonight)]()
