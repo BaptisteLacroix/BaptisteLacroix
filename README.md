@@ -12,7 +12,7 @@ I use to upload my school projects on GitHub to help student and share my passio
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaptisteLacroix&count_private=true)]()
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteLacroix&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteLacroix&langs_count=5&theme=dark)]()
 
 <!--
 **BaptisteLacroix/BaptisteLacroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
