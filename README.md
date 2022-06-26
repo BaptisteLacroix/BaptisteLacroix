@@ -11,7 +11,7 @@ I use to upload my school projects on GitHub to help student and share my passio
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaptisteLacroix&show_icons=true&theme=algolia)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteLacroix&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteLacroix&langs_count=6&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BaptisteLacroix/BaptisteLacroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
