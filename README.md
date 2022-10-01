@@ -15,7 +15,7 @@ I use to upload my school projects on GitHub to help student and share my passio
 <br >
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteLacroix&langs_count=8&theme=algolia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteLacroix&langs_count=9&theme=algolia">
 </p>
 
 <!--
