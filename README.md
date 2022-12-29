@@ -7,6 +7,8 @@ I enjoy learning everything related to computer science and I learn to use diffe
 🎓 I'm currently studying at [IUT Nice Côte d'Azur](https://iut.univ-cotedazur.fr/) in computer science. I hope in the future to join an engineer school and also become a computer engineer. 
 I use to upload my school projects on GitHub to help student and share my passion.
 
+- 👯 I’m looking for an internship in dev (Java, Python etc..) 
+
 ### GitHub Stats 📈
 
 <p align="center">
