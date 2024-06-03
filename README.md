@@ -10,6 +10,10 @@ I use to upload my school projects on GitHub to help student and share my passio
 ### GitHub Stats 📈
 
 <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaptisteLacroix&theme=gotham&hide_border=false">
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaptisteLacroix&show_icons=true&theme=great-gatsby">
 </p>
 <br >
