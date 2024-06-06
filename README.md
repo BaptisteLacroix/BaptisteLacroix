@@ -21,7 +21,7 @@ I use to upload my school projects on GitHub to help student and share my passio
 
 <br clear="both">
 
-<img src="./.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BaptisteLacroix/BaptisteLacroix/output/snake.svg" alt="Snake animation" />
 
 
 <!--
