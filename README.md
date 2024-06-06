@@ -19,6 +19,11 @@ I use to upload my school projects on GitHub to help student and share my passio
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteLacroix&langs_count=11&theme=algolia">
 </p>
 
+<br clear="both">
+
+<img src="./.github/workflows/snake.yml" alt="Snake animation" />
+
+
 <!--
 **BaptisteLacroix/BaptisteLacroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
