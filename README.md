@@ -4,7 +4,7 @@ My name is Baptiste, I'm 20 and I live in France.
 I started programming around 2019 with Python and now I work on some personal and school projects. 
 I enjoy learning everything related to computer science and I learn to use different programming tool and languages in my spare time.
 
-🎓 I'm currently studying in work-study at [Polytech Nice Sophia](https://polytech.univ-cotedazur.fr/) in computer science and [Airbus DS Geo SGSA](https://intelligence-airbusds.com/).
+🎓 I'm currently studying in work-study at [Polytech Nice Sophia](https://polytech.univ-cotedazur.fr/) in computer science and [Airbus Defense and Space](https://intelligence-airbusds.com/).
 I use to upload my school projects on GitHub to help student and share my passion.
 
 ### GitHub Stats 📈
