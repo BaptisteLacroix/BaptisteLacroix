@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Baptiste, I'm 20 and I live in France. 
+My name is Baptiste, I'm a software engineer student. 
 I started programming around 2019 with Python and now I work on some personal and school projects. 
 I enjoy learning everything related to computer science and I learn to use different programming tool and languages in my spare time.
 
